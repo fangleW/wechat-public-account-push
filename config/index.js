@@ -60,15 +60,15 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "醉清风",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "ojR-w6i_h6n5412rw1BADqn89f3U",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "OlNVSAQuaNJwxgc82G_9k_KOepo8VqSfZqavlcUiEo8",
       // 所在省份
       province: "广东",
       // 所在城市
-      city: "肇庆",
+      city: "深圳",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -147,7 +147,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "ojR-w6i_h6n5412rw1BADqn89f3U",
     },
     // 你可以不断按格式往下增加
     // ...
